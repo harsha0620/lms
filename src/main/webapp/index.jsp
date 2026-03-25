@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Harsha ❤️ Sahana</title>
+    <title>Harsha loves Sahana</title>
     <style>
         body {
             background-color: #ffe6eb;
