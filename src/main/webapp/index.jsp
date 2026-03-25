@@ -5,66 +5,43 @@
     <title>Harsha ❤️ Sahana</title>
     <style>
         body {
-            background: linear-gradient(to right, #ff9a9e, #fad0c4);
+            background-color: #ffe6eb;
             font-family: Arial, sans-serif;
             text-align: center;
-            color: white;
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
-            margin-top: 100px;
+            color: #d63384;
+            padding: 50px;
         }
 
         h1 {
-            font-size: 50px;
+            font-size: 40px;
         }
 
         p {
-            font-size: 22px;
+            font-size: 20px;
             margin: 10px 0;
-        }
-
-        .heart {
-            font-size: 40px;
-            animation: heartbeat 1s infinite;
-        }
-
-        @keyframes heartbeat {
-            0% { transform: scale(1); }
-            25% { transform: scale(1.2); }
-            50% { transform: scale(1); }
-            75% { transform: scale(1.2); }
-            100% { transform: scale(1); }
-        }
-
-        .footer {
-            margin-top: 50px;
-            font-size: 18px;
         }
     </style>
 </head>
 <body>
 
-    <div class="container">
-        <h1>❤️ Harsha Loves Sahana ❤️</h1>
+    <h1>❤️ Harsha Loves Sahana ❤️</h1>
 
-        <p class="heart">💖 💕 💞 💘 💓 💗 💝</p>
+    <p>💖 💕 💞 💘 💓 💗 💝</p>
 
-        <p>My Dearest Sahana,</p>
-        <p>You are the reason for my smile 😊</p>
-        <p>You are my happiness, my love, my life ❤️</p>
-        <p>Every moment with you feels like a dream 💫</p>
-        <p>I promise to love you forever 💍</p>
+    <p>My Dearest Sahana,</p>
+    <p>You are the reason for my smile 😊</p>
+    <p>You are my happiness, my love, my life ❤️</p>
+    <p>Every moment with you feels like a beautiful dream 💫</p>
 
-        <p class="heart">💖 💕 💞 💘 💓 💗 💝</p>
+    <p>I feel lucky to have you in my life 💖</p>
+    <p>Your love makes my world brighter every day ☀️</p>
 
-        <div class="footer">
-            <p>Forever Yours,</p>
-            <p><strong>Harsha ❤️</strong></p>
-        </div>
-    </div>
+    <p>I promise to love you forever 💍</p>
+
+    <p>💖 💕 💞 💘 💓 💗 💝</p>
+
+    <p><strong>Forever Yours,</strong></p>
+    <p><strong>Harsha ❤️</strong></p>
 
 </body>
 </html>
